@@ -30,9 +30,18 @@
 * [3.1 Melodia](3-sons-em-conjunto/3.1-melodia.md)
 * [3.2 Intervalos](3-sons-em-conjunto/3.2-intervalos.md)
 * [3.3 Consonância e Dissonância](3-sons-em-conjunto/3.3-consonancia-e-dissonancia.md)
-* [3.4 Escalas](3-sons-em-conjunto/3.4-escalas.md)
+* [3.4 Escalas](3-sons-em-conjunto/3.4-escalas/README.md)
+  * [3.4.1 Escala maior](3-sons-em-conjunto/3.4-escalas/3.4.1-escala-maior.md)
+  * [3.4.2 Escala relativa menor](3-sons-em-conjunto/3.4-escalas/3.4.2-escala-relativa-menor.md)
+  * [3.4.3 Escala paralela menor](3-sons-em-conjunto/3.4-escalas/3.4.3-escala-paralela-menor.md)
 * [3.5 Modos](3-sons-em-conjunto/3.5-modos.md)
-* [3.6 Harmonia](3-sons-em-conjunto/3.6-harmonia.md)
+* [3.6 Harmonia](3-sons-em-conjunto/3.6-harmonia/README.md)
+  * [3.6.1 Tríades](3-sons-em-conjunto/3.6-harmonia/3.6.1-triades.md)
+  * [3.6.2 Acordes de sétima](3-sons-em-conjunto/3.6-harmonia/3.6.2-acordes-de-setima.md)
+  * [3.6.3 Baixo contínuo](3-sons-em-conjunto/3.6-harmonia/3.6.3-baixo-continuo.md)
+  * [3.6.4 Forma](3-sons-em-conjunto/3.6-harmonia/3.6.4-forma.md)
+  * [3.6.5 Cadências](3-sons-em-conjunto/3.6-harmonia/3.6.5-cadencias.md)
+  * [3.6.6 Frase](3-sons-em-conjunto/3.6-harmonia/3.6.6-frase.md)
 
 ## 4 Posfácio
 
