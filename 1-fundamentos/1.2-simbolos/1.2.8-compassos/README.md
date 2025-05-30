@@ -1,5 +1,8 @@
 # 1.2.8 Compassos
 
+* [1.2.8.1-metrica.md](1.2.8.1-metrica.md "mention")
+* [1.2.8.2-formula-de-compasso.md](1.2.8.2-formula-de-compasso.md "mention")
+
 Define-se por compasso os vários fragmentos da partitura que correspondem a segmentos de tempo cuja duração é indicada pela fórmula de compasso e que se encontram contidos entre duas barras verticais. Embora a palavra compasso seja usado de um modo generalizado em português, em inglês na Europa a palavra mais usada é «bar» e em norte-americano é «measure». Podemos afirmar que «bar» seriam as barras verticais que delimitam os compassos e o «measure» o compasso em si, pelo que um termo eventualmente menos ambíguo seria «bar line».
 
 Em todo o caso, na prática os termos são usados indistintamente. Existem inúmeras barras de compasso com inúmeros objetivos diferentes. Todas as barras de compasso, independentemente dos seus símbolos, delimitam os compassos, mas algumas têm funções adicionais. As próximas figuras apresentam as mais comuns.
