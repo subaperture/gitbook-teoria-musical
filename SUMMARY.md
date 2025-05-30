@@ -20,12 +20,9 @@
 * [3.1 Melodia](3-sons-em-conjunto/3.1-melodia.md)
 * [3.2 Intervalos](3-sons-em-conjunto/3.2-intervalos.md)
 * [3.3 Consonância e Dissonância](3-sons-em-conjunto/3.3-consonancia-e-dissonancia.md)
-
-***
-
-* [3.4 Escalas](3.4-escalas.md)
-* [3.5 Modos](3.5-modos.md)
-* [3.6 Harmonia](3.6-harmonia.md)
+* [3.4 Escalas](3-sons-em-conjunto/3.4-escalas.md)
+* [3.5 Modos](3-sons-em-conjunto/3.5-modos.md)
+* [3.6 Harmonia](3-sons-em-conjunto/3.6-harmonia.md)
 
 ## 4 Posfácio
 
