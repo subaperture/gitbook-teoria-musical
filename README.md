@@ -1,12 +1,10 @@
 ---
-description: Princípios de ritmo, melodia e harmonia.
-coverY: 0
+description: >-
+  Livro open source em português sobre Teoria Musical — Princípios de ritmo,
+  melodia e harmonia.
 ---
 
 # Teoria Musical
-
-* Livro open source português sobre teoria musical.
-* Portuguese open-source book about music theory.
 
 ## Conteúdo
 
