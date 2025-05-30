@@ -9,7 +9,17 @@
   * [1.1.2 Intensidade](1-fundamentos/1.1-som/1.1.2-intensidade.md)
   * [1.1.3 Duração](1-fundamentos/1.1-som/1.1.3-duracao.md)
   * [1.1.4 Timbre](1-fundamentos/1.1-som/1.1.4-timbre.md)
-* [1.1 Símbolos](1-fundamentos/1.1-simbolos.md)
+* [1.2 Símbolos](1-fundamentos/1.2-simbolos/README.md)
+  * [1.2.1 Pauta e Partitura](1-fundamentos/1.2-simbolos/1.2.1-pauta-e-partitura.md)
+  * [1.2.2 Notas](1-fundamentos/1.2-simbolos/1.2.2-notas.md)
+  * [1.2.3 Claves](1-fundamentos/1.2-simbolos/1.2.3-claves.md)
+  * [1.2.4 Armação de Clave](1-fundamentos/1.2-simbolos/1.2.4-armacao-de-clave.md)
+  * [1.2.5 Vozes](1-fundamentos/1.2-simbolos/1.2.5-vozes.md)
+  * [1.2.6 Figuras Rítmicas](1-fundamentos/1.2-simbolos/1.2.6-figuras-ritmicas.md)
+  * [1.2.7 Rítmo](1-fundamentos/1.2-simbolos/1.2.7-ritmo.md)
+  * [1.2.8 Compassos](1-fundamentos/1.2-simbolos/1.2.8-compassos/README.md)
+    * [1.2.8.1 Métrica](1-fundamentos/1.2-simbolos/1.2.8-compassos/1.2.8.1-metrica.md)
+    * [1.2.8.2 Fórmula de Compasso](1-fundamentos/1.2-simbolos/1.2.8-compassos/1.2.8.2-formula-de-compasso.md)
 
 ## 2 Sons Isolados
 
