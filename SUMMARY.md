@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Page](README.md)
+* [Teoria Musical](README.md)
 
 ## 1 Fundamentos
 
