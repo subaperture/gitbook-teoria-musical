@@ -7,9 +7,15 @@ Define-se por compasso os vários fragmentos da partitura que correspondem a seg
 
 Em todo o caso, na prática os termos são usados indistintamente. Existem inúmeras barras de compasso com inúmeros objetivos diferentes. Todas as barras de compasso, independentemente dos seus símbolos, delimitam os compassos, mas algumas têm funções adicionais. As próximas figuras apresentam as mais comuns.
 
+<figure><img src="../../../.gitbook/assets/barlines_simple.svg" alt=""><figcaption><p>Figura 1.18. Barras simples para divisão dos compassos.</p></figcaption></figure>
+
 O exemplo da figura anterior apresenta três barras de compasso diferentes sendo que a barra mais à esquerda é uma barra simples e as outras duas são barras duplas. A barra do exemplo número 1 é uma barra simples e a sua única função é delimitar os compassos. O exemplo número 2 apresenta uma barra dupla cuja função adicional é o de indicar uma mudança de movimento ou o início de uma nova secção numa peça musical. O exemplo 3 apresenta uma barra final, composta por uma barra mais fina à esquerda e uma mais grossa à direita, cujo objetivo é indicar o fim de uma peça musical.
 
+<figure><img src="../../../.gitbook/assets/barlines_repetition.svg" alt=""><figcaption><p>Figura 1.19. Barras de repetição.</p></figcaption></figure>
+
 As três barras de compasso do exemplo anterior são denominadas barras de repetição. A barra do exemplo 4 indica que os compassos que se encontram à sua direita devem ser repetidos uma vez, até se encontrar a barra do exemplo 5. Quando a barra do exemplo 5 é alcançada, a peça deve ser repetida desde a barra do exemplo 4, continuando até existirem barras com outras funções. A barra de repetição do exemplo 5 junta num único símbolo as barras dos exemplos 4 e 6.
+
+<figure><img src="../../../.gitbook/assets/barlines_volta_brackets.svg" alt=""><figcaption><p>Figura 1.20. Barras de repetição com duas casas distintas.</p></figcaption></figure>
 
 Os exemplos da figura anterior estendem o conceito de barra de repetição e incluem a indicação de duas casas: a casa 1, que vai desde o compasso número 3 até ao compasso número 4 (inclusive) e a casa 2 que ocupa apenas o compasso número 5. A casa 1 é tocada uma vez aquando a primeira passagem, mas saltada aquando a primeira repetição, que deve saltar do compasso número 2 imediatamente para a casa 2 no 5.º compasso.
 
