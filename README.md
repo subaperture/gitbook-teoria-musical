@@ -1,6 +1,6 @@
 ---
 description: >-
-  Livro open source em português sobre Teoria Musical — Princípios de ritmo,
+  Livro português open-source sobre Teoria Musical — Princípios de ritmo,
   melodia e harmonia.
 ---
 
