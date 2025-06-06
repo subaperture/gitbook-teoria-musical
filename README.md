@@ -6,6 +6,10 @@ description: >-
 
 # Teoria Musical
 
+> A musica expressa o que não pode ser dito em palavras mas não pode permanecer em silêncio.
+>
+> — Victor Hugo, William Shakespeare, 1864
+
 ## Conteúdo
 
 ### 1 Fundamentos
