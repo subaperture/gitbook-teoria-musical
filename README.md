@@ -6,9 +6,9 @@ description: >-
 
 # Teoria Musical
 
-> A música expressa o que não pode ser dito em palavras mas não pode permanecer em silêncio.
+> Escrito por Marco Ferra
 >
-> — Victor Hugo, William Shakespeare, 1864
+> — [marcoferra@teoria-musical.com](mailto:marcoferra@teoria-musical.com)
 
 ## Conteúdo
 
