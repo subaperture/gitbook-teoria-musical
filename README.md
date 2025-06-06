@@ -6,7 +6,7 @@ description: >-
 
 # Teoria Musical
 
-> Escrito por Marco Ferra
+> Escrito por Marco Ferra, Lisboa, Portugal
 >
 > — [marcoferra@teoria-musical.com](mailto:marcoferra@teoria-musical.com)
 
