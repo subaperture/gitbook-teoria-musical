@@ -10,6 +10,8 @@ description: >-
 >
 > — [marcoferra@teoria-musical.com](mailto:marcoferra@teoria-musical.com)
 
+<figure><img src=".gitbook/assets/teoria-musical-cover-v2.webp" alt="" width="375"><figcaption><p>Capa do Livro por Mina Soleymanian<br>Book Cover by Mina Soleymanian</p></figcaption></figure>
+
 ## Conteúdo
 
 ### 1 Fundamentos
